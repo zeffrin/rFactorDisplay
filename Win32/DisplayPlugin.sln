@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "InternalsPlugin", "DisplayPlugin.vcproj", "{D0C09F9B-E1D6-4A04-B698-190F52BBA156}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DisplayPanel", "..\DisplayPanel\DisplayPanel.vcproj", "{6E865366-BCE1-48B6-8A1D-DA35250E214D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0C09F9B-E1D6-4A04-B698-190F52BBA156}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D0C09F9B-E1D6-4A04-B698-190F52BBA156}.Debug|Win32.Build.0 = Debug|Win32
+		{D0C09F9B-E1D6-4A04-B698-190F52BBA156}.Release|Win32.ActiveCfg = Release|Win32
+		{D0C09F9B-E1D6-4A04-B698-190F52BBA156}.Release|Win32.Build.0 = Release|Win32
+		{6E865366-BCE1-48B6-8A1D-DA35250E214D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6E865366-BCE1-48B6-8A1D-DA35250E214D}.Debug|Win32.Build.0 = Debug|Win32
+		{6E865366-BCE1-48B6-8A1D-DA35250E214D}.Release|Win32.ActiveCfg = Release|Win32
+		{6E865366-BCE1-48B6-8A1D-DA35250E214D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
